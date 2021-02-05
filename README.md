@@ -1,5 +1,6 @@
 # CCNA
 
+My studing plan for CCNA all labs and resources are available this repository, I will follow oficial Cisco blueprint.
 
 # 1.0 Network Fundamentals
 
